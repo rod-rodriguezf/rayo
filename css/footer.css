@@ -1,0 +1,16 @@
+.cont{
+    margin-top: 20px;
+}
+.men {
+    margin-top: 20px;
+}
+.redes {
+    margin-top: 20px;
+}
+.color {
+    background-color: rgb(109, 105, 105);
+    box-shadow: 0px 0px 10px 3px grey;
+}
+.afoter i {
+    line-height: 38px;
+}

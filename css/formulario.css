@@ -1,0 +1,28 @@
+.root {
+    --dark: #16191c;
+    --dark-x: #1e2126;
+    --light: #ffffff;
+}
+body {
+    font-family: 'Spartan', sans-serif;
+    font-weight: 300;
+    color: #ffffff;
+}
+.bg-dark { background-color: #16191c !important; }
+.bg-dark-x { background-color: #1e2126; }
+
+.form-control, .btn {
+    min-height: 3.125rem;
+}
+
+.navbar a:hover {
+    background: rgb(214, 15, 15);
+}
+.contacto {
+    background: rgba(0, 0, 0, .6);
+    color: white;
+    margin-top: 100px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px 3px grey;
+    
+}
